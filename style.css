@@ -5,7 +5,7 @@ table {
 th {
     background-color: #a4d1f7;
     font-weight : bold;
-    height : 60px;
+    height : 150px;
 }
 
 
@@ -17,5 +17,5 @@ td:nth-child(1) {
 td {
     background-color: #bbdefb;
     text-align: center;
-    height : 60px;
+    height : 150px;
 }
