@@ -6,6 +6,7 @@ th {
     background-color: #83c2f5;
     font-weight : bold;
     height : 150px;
+    font-size: 400%;
 }
 
 th:nth-child(1) {
@@ -23,4 +24,5 @@ td {
     background-color: #bbdefb;
     text-align: center;
     height : 150px;
+    font-size: 400%;
 }
