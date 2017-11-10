@@ -5,20 +5,17 @@ table {
 th {
     background-color: #a4d1f7;
     font-weight : bold;
-    height : 20px;
-    width: 200px;
+    height : 40px;
 }
 
 
 td:nth-child(1) {
     background-color: #a4d1f7;
     font-weight: bold;
-    width: 200px;
 }
 
 td {
     background-color: #bbdefb;
     text-align: center;
-    height : 20px;
-    width: 200px;
+    height : 40px;
 }
