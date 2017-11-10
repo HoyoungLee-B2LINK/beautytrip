@@ -3,9 +3,14 @@ table {
 }
 
 th {
-    background-color: #a4d1f7;
+    background-color: #71B0E6;
     font-weight : bold;
     height : 150px;
+}
+
+th:nth-child(1) {
+    background-color: #a4d1f7;
+    font-weight: bold;
 }
 
 
